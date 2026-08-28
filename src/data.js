@@ -112,7 +112,7 @@ export const experience = [
   {
     role: 'Member of Aarvak - Machine Learning Society of VIPS-TC',
     period: 'August 2025 – Present',
-    duration: '5 Weeks',
+    
     points: [
       'Participated in various machine learning competitions and hackathons.',
       'Volunteered in Code Royale, an event organized by Aarvak which was fusion of coding and Gaming',
